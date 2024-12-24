@@ -1,0 +1,4 @@
+numpy                # array computations
+torch                # tensor computations and deep learning
+Pillow               # image processing
+matplotlib           # data visualization
